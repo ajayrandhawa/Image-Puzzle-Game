@@ -27,7 +27,7 @@ Change Value of Input Field "value=3" eg: "value="9"
 
 ## Version
 
-1.0
+2.0
 
 ## Authors
 
